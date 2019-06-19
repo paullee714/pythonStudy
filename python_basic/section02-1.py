@@ -18,7 +18,7 @@ print('nicemkan' ,'google.com', sep='@')
 #end option usage
 print('Welcom To', end='')
 print('the black parade', end='')
-print(' paino notes')
+print(' paino notes', end='\n\n')
 
 #format 사용
 print('{} and {}'.format('You','Me'))
