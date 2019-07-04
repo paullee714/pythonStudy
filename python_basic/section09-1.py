@@ -22,7 +22,7 @@ with open('resource/text2.txt','w') as f:
         f.write(str(randint(0,50)))
         f.write('\n')
 
-
+# 예제 로그
 with open('resource/log.txt','w') as f:
     print('log test 1',file=f)
     print('log test 2',file =f)
